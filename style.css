@@ -14,5 +14,5 @@ body {
      
 }
 .square:hover {
-    transform: scale(1.8) rotate(160deg) translateX(100px);
+    transform: scale(1.8) rotate(45deg) translateX(100px);
 }
